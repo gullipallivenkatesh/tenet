@@ -1,0 +1,4 @@
+Trunk based     we never create new branch we directly work on main single branch
+github flow     we create separate branches features then merge with main branch
+release based   we create branches from each release
+git flow        we create additional braches to main brach and the create feature branch for addition branches
